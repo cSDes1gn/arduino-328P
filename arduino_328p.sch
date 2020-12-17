@@ -4961,7 +4961,7 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 <part name="GND8" library="SparkFun-PowerSymbols" deviceset="GND2" device=""/>
 <part name="R2" library="SparkFun-Resistors" deviceset="0.22OHM" device="-0805-1/4W-1%" value="330"/>
 <part name="R3" library="SparkFun-Resistors" deviceset="0.22OHM" device="-0805-1/4W-1%" value="330"/>
-<part name="R4" library="SparkFun-Resistors" deviceset="0.22OHM" device="-0805-1/4W-1%" value="0.22"/>
+<part name="R4" library="SparkFun-Resistors" deviceset="0.22OHM" device="-0805-1/4W-1%" value="330"/>
 <part name="J5" library="SparkFun-Connectors" deviceset="POWER_JACK" device=""/>
 <part name="D1" library="SparkFun-LED" deviceset="LED" device="1206"/>
 <part name="D2" library="SparkFun-LED" deviceset="LED" device="1206"/>

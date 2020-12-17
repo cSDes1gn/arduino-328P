@@ -890,7 +890,7 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="RES-09883" x="86.36" y="82.55" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="38.989" y="31.75" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
 </element>
-<element name="R4" library="SparkFun-Resistors" package="0805" value="0.22" x="46.99" y="31.75" smashed="yes" rot="R90">
+<element name="R4" library="SparkFun-Resistors" package="0805" value="330" x="46.99" y="31.75" smashed="yes" rot="R90">
 <attribute name="NAME" x="46.101" y="31.75" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-09883" x="95.25" y="86.36" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="47.879" y="31.75" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
